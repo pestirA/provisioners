@@ -1,1 +1,1 @@
-# provisioners
+# provisioners - demonstrate the ability to create resources (security groups, vm) and use file provisioner to update an ami
